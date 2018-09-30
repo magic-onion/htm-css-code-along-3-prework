@@ -46,7 +46,9 @@ figcaption {
   text-decoration: underline;
 }
 
-
+#detailks a:hover {
+  color: red;
+}
 
 
 
